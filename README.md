@@ -112,7 +112,7 @@ Combined Model: 87.63%
 
 These results show that FGSM attacks were more resilient to transformations than RFGSM and PGD. Affine and Median Blur proved particularly effective, and model ensembles enhanced recovery rates against adversarial attacks.
 
-# Key Findings
+## Key Findings
 
 FGSM Attacks: Applying Affine Blur to adversarial images correctly classified by both models recovered 90.3% top-3 accuracy with DenseNet121, showcasing its resilience.
 RFGSM Attacks: DenseNet121 achieved 87.94% top-3 accuracy using Affine Blur.
